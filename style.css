@@ -1,0 +1,34 @@
+body, html {
+    margin: 0;
+    background: hsl(212, 45%, 89%);
+    font-family: Outfit, sans-serif;
+}
+
+.container {
+    margin: 90px auto;
+    padding: 5px;
+    height: 440px;
+    width: 280px;
+    border-radius: 15px;
+    background-color: hsl(0, 0%, 100%);
+}
+
+img {
+    margin: 10px;
+    width: 260px;
+    border-radius: 8px;
+}
+
+h3 {
+    margin-top: 5px;
+    font-weight: 700;
+    color: #28282B;
+    text-align: center;
+}
+
+p {
+    font-size: 15px;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+    text-align: center;
+}
